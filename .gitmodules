@@ -1,0 +1,3 @@
+[submodule "Assets/External"]
+	path = Assets/External
+	url = https://github.com/Alexey512/ProjectA.git
