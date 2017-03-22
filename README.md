@@ -1,0 +1,2 @@
+# PojectB
+Project using submodule
